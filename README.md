@@ -7,18 +7,11 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-935073?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-eosin-pi-10.vercel.app)
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Works Offline](https://img.shields.io/badge/Works-Offline-935073?style=flat-square)
 
 <br />
 
-<img src="docs/dashboard.png" alt="Support Desk dashboard" width="900" />
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/678115a1-c062-4c28-bbff-50faec390183" />
+>
 
 </div>
 
