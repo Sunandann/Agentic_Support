@@ -1,0 +1,15 @@
+# Optional MySQL 8 for the persistence layer (the app uses SQLite by default).
+# Then run the backend with:
+#   DATABASE_URL=mysql+pymysql://support:supportpass@127.0.0.1:3306/support_ai  (pip install -r requirements-optional.txt)
+services:
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: support_ai
+      MYSQL_USER: support
+      MYSQL_PASSWORD: supportpass
+      MYSQL_ROOT_PASSWORD: rootpass
+    ports: ["3306:3306"]
+    volumes: ["mysql_data:/var/lib/mysql"]
+volumes:
+  mysql_data:

@@ -1,0 +1,12 @@
+[
+ {"subject":"Can't log in","body":"I forgot my password and I'm locked out of my account. Please help me reset it.","channel":"web","customer_id":"cust-1001"},
+ {"subject":"Where is my order?","body":"I ordered a jacket last week and the tracking link has not updated. When will my package arrive?","channel":"email","customer_id":"cust-1002"},
+ {"subject":"Charged twice!!","body":"I was charged twice for my subscription this month. This is URGENT, please fix it and refund the duplicate. Order ORD-48213.","channel":"chat","customer_id":"cust-1003"},
+ {"subject":"Invoice download","body":"Where can I download the invoice for my last payment? I need it for my accountant.","channel":"email","customer_id":"cust-1004"},
+ {"subject":"Unauthorized transactions","body":"There are unauthorized transactions on my account and I think I was hacked. I will contact my lawyer if this is not investigated today.","channel":"email","customer_id":"cust-1005"},
+ {"subject":"App keeps crashing","body":"The mobile app crashes every time I open the notifications page. I already restarted my phone.","channel":"web","customer_id":"cust-1006"},
+ {"subject":"Please delete my account","body":"I want to delete my account and all my personal data permanently.","channel":"web","customer_id":"cust-1007"},
+ {"subject":"Wrong size received","body":"I received the wrong item, the shoes are two sizes too small. I would like an exchange for the correct size.","channel":"email","customer_id":"cust-1008"},
+ {"subject":"Change email","body":"Please update my email address to my new work address, my old one is no longer valid.","channel":"web","customer_id":"cust-1009"},
+ {"subject":"Compensation for ruined event","body":"My delivery arrived three weeks late and ruined my daughter's birthday. I am furious and I demand compensation, this is unacceptable.","channel":"email","customer_id":"cust-1010"}
+]

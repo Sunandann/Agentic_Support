@@ -1,0 +1,230 @@
+[
+ {
+  "subject": "Reset password",
+  "body": "I forgot my password, how can I reset it?",
+  "category": "account_security",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Locked out",
+  "body": "My account got locked after I typed the wrong password a few times. How long until I can try again?",
+  "category": "account_security",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Enable 2FA",
+  "body": "How do I set up two-factor authentication on my account?",
+  "category": "account_security",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "No code",
+  "body": "The verification code never arrives on my phone, I have tried three times.",
+  "category": "account_security",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Sign in problem",
+  "body": "I cannot sign in to my account since this morning, please help me get back in.",
+  "category": "account_security",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Invoice",
+  "body": "Where do I find my invoice for last month's payment?",
+  "category": "billing",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Change card",
+  "body": "I need to change the credit card used for my subscription.",
+  "category": "billing",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Double charge",
+  "body": "I see two charges for the same payment on my card statement. Can you check?",
+  "category": "billing",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "When renew",
+  "body": "When does my subscription renew next?",
+  "category": "billing",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Cancel plan",
+  "body": "How do I cancel my subscription? I no longer need it.",
+  "category": "billing",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Return policy",
+  "body": "What is your return policy for unused items?",
+  "category": "returns_refunds",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Refund time",
+  "body": "How many days until my refund shows up on my card?",
+  "category": "returns_refunds",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Damaged",
+  "body": "My package arrived with a damaged lamp. What can I do to get a replacement?",
+  "category": "returns_refunds",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Exchange",
+  "body": "I would like to exchange my shirt for a bigger size.",
+  "category": "returns_refunds",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Refund request",
+  "body": "I want my money back for order ORD-77120, the item does not fit.",
+  "category": "returns_refunds",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Order status",
+  "body": "Where is my order? The tracking page has not changed for two days.",
+  "category": "shipping",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Delivery time",
+  "body": "How many days does standard delivery take?",
+  "category": "shipping",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Not received",
+  "body": "The courier says my parcel was delivered but I do not see it anywhere.",
+  "category": "shipping",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Address change",
+  "body": "I made a typo in my shipping address, can I fix it after ordering?",
+  "category": "shipping",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "App crash",
+  "body": "The app crashes every time I open it on my phone.",
+  "category": "technical",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Page error",
+  "body": "The website shows an error when I try to open my dashboard page.",
+  "category": "technical",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "No notifications",
+  "body": "I stopped receiving push notifications from the app.",
+  "category": "technical",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "API 401",
+  "body": "Our API calls fail with a 401 unauthorized response since yesterday.",
+  "category": "technical",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Update email",
+  "body": "Please update my email address to my new one.",
+  "category": "account_management",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Change phone",
+  "body": "How can I change my phone number on my profile?",
+  "category": "account_management",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Support hours",
+  "body": "What are your support hours?",
+  "category": "general",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Human please",
+  "body": "How can I talk to a human agent?",
+  "category": "general",
+  "expected_decision": "auto"
+ },
+ {
+  "subject": "Delete account",
+  "body": "I want to delete my account and all my data forever.",
+  "category": "account_management",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Fraud",
+  "body": "There are unauthorized charges on my card from your company. I think this is fraud!",
+  "category": "billing",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Legal threat",
+  "body": "Your delay cost me money. I am contacting my lawyer about legal action.",
+  "category": "shipping",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Chargeback",
+  "body": "I will file a chargeback with my bank if I do not get an answer today.",
+  "category": "billing",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Hacked",
+  "body": "My account was hacked and someone changed my details. Urgent!",
+  "category": "account_security",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Compensation",
+  "body": "The late delivery ruined my event. I demand compensation for the damage!",
+  "category": "shipping",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Data breach",
+  "body": "I received a spam email using the address I gave you. Was there a data breach?",
+  "category": "account_security",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Off topic",
+  "body": "My cat is sitting on my keyboard and I would like to know about your partnership program with veterinarians.",
+  "category": "general",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Gibberish",
+  "body": "asdf qwer zxcv blorp",
+  "category": "general",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Contract",
+  "body": "I want to cancel my contract and dispute the termination fee in writing.",
+  "category": "billing",
+  "expected_decision": "escalate"
+ },
+ {
+  "subject": "Mixed issue",
+  "body": "Wrong item, charged twice, and the app also crashed on checkout. I want somebody to call me, this is a mess.",
+  "category": "returns_refunds",
+  "expected_decision": "escalate"
+ }
+]
